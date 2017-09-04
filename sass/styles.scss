@@ -20,7 +20,7 @@ a:hover,
     color:white;
     height:100px;
     padding:425px 0 0 65px;
-    margin:auto;   
+    margin:auto;
 }
 
 #about img {
@@ -89,7 +89,7 @@ body {
     margin:auto;
     width:1200px;
     padding:0;
-    background-color:#f7f5f0;       
+    background-color:#f7f5f0;
 }
 
 #content {
@@ -127,7 +127,7 @@ footer a:hover {
 }
 
 footer li {
-    clear:none; 
+    clear:none;
     margin:auto;
     float:right;
     box-sizing:border-box;
@@ -160,7 +160,7 @@ h3 {
     width:100px;
     margin-left:175px;
     padding:5px;
-    
+
 }
 
 #header a:hover {
@@ -228,7 +228,7 @@ h3 {
     float:left;
     margin:50px;
     padding:25px;
-    margin:100px;  
+    margin:100px;
 }
 
 #introduction {
@@ -252,7 +252,7 @@ h3 {
     padding:15px;
     text-decoration:none;
     color:#066e84;
-    
+
 }
 
 #introduction a:hover {
@@ -342,7 +342,7 @@ p {
 
 #products a:hover {
     opacity:0.6;
-    
+
 }
 
 #products h3 {
@@ -377,7 +377,7 @@ p {
     font-size:3.5em;
     padding-top:35px;
     padding-left:400px;
-    
+
 }
 
 #product1 img {
@@ -482,7 +482,7 @@ p {
     font-size:2em;
     text-align:center;
     color:#066e84;
-    
+
 }
 
 #steamer .header {
@@ -491,11 +491,11 @@ p {
     height:453px;
     margin-top:0px;
     margin-bottom:100px;
-} 
+}
 
 #steamer .list h4:hover {
     text-decoration:underline;
-    
+
 }
 
 #steamer .list p {
@@ -523,11 +523,11 @@ p {
 
 #testimonials {
     margin-top:725px;
-    clear:both; 
+    clear:both;
     background-color:#daedf1;
     height:565px;
     width:1200px;
-    height:565px;   
+    height:565px;
 }
 
 #testimonials a {
@@ -541,7 +541,7 @@ p {
     text-align:center;
     padding:15px;
     text-decoration:none;
-    
+
 }
 
 #testimonials a:hover {
@@ -571,11 +571,11 @@ ul {
 }
 
 @media screen and (max-width:1200px) {
-    
+
     #about {
         background-image:url(images/tablet-about.png);
     }
-    
+
     #about h3 {
         height:85px;
         padding:250px 0 0 50px;
@@ -588,47 +588,47 @@ ul {
         margin-top:105px;
         padding-right:150px;
     }
-    
+
      #about .first p {
         font-size:1.5em;
         width:375px;
         padding-right:40px;
     }
-    
+
     #about img {
         padding-left:50px;
     }
-    
+
     #about .second {
         width:675px;
         padding-left:55px;
     }
-    
+
     #about .second h4 {
         font-size:3.5em;
         margin-top:0px;
         margin-bottom:15px;
     }
-    
+
     #about .second p {
         width:675px;
         font-size:1.6em;
     }
-      
+
     .bar .link {
         padding-top:12px;
-    } 
-    
+    }
+
     body {
         width:750px;
     }
-    
+
     #content {
         margin:0px;
         padding:0px;
         margin-top:60px;
     }
-    
+
     #content a {
         font-size:2em;
         width:160px;
@@ -636,24 +636,24 @@ ul {
         margin:30px;
         padding-top:60px;
     }
-    
+
     h3 {
         font-size:3.5em;
     }
-    
+
     #header a {
         margin-left:115px;
     }
-    
+
     #headermain {
         background-image: url(images/tablet-mainheader.png);
         height:335px;
     }
-    
+
     #headermain b {
         font-size:2.5em;
     }
-    
+
     #headermain .boxes {
         width:750px;
         margin-left:35px;
@@ -668,7 +668,7 @@ ul {
         margin-top:60px;
         padding-left:10px;
     }
-    
+
     #headermain p {
         width:275px;
         font-size:1.4em;
@@ -678,22 +678,22 @@ ul {
 
     img {
         width:100%;
-    
+
     }
-    
+
     #introduction {
         width:750px;
         height:415px;
         margin-top:45px;
         margin-bottom:25px;
     }
-    
+
     #introduction p {
         font-size:1.4em;
         width:550px;
         height:105px;
     }
-   
+
     nav {
         clear:both;
         width:750px;
@@ -704,7 +704,7 @@ ul {
         font-size:1.6em;
         font-weight:600;
     }
- 
+
     nav img {
         width:100px;
     }
@@ -717,23 +717,23 @@ ul {
         position:relative;
         margin-top:5px;
     }
-    
+
     p {
         margin:10px;
     }
-    
+
     #photos h3 {
         width:750px;
     }
-    
+
     #photos img {
         width:65%
     }
-    
+
     #photos ul {
         width:750px;
     }
-   
+
     #photos h3 {
         width:750px;
         margin:auto;
@@ -741,48 +741,48 @@ ul {
         margin-top:35px;
         margin-bottom:25px;
     }
-    
+
     #photos .box {
         float:none;
         width:auto;
         margin-bottom:10px;
         margin-left:75px;
     }
-    
+
     #products h3 {
         margin-top:0px;
         margin-bottom:0px;
         text-align:center;
     }
-    
+
     #products .item {
         width:215px;
         height:175px;
-        margin-left:10px;   
+        margin-left:10px;
     }
-    
+
     #products ul {
         margin-left:0px;
     }
-    
-    
+
+
     #product1 {
         margin-left:0px;
     }
-    
+
     #product1 h3 {
         font-size:2.6em;
         width:250px;
     }
-    
+
     #product1 .ingredients {
         width:700px;
     }
-    
+
     #product1 p {
         font-size:2.2em;
     }
-    
+
     #product1 .price {
         width:185px;
         margin-left:0px;
@@ -792,70 +792,70 @@ ul {
         background-image:url(images/tablet-steamers-main.png);
         height:335px;
     }
-    
+
     #productsmain h3 {
         padding-top:175px;
         font-size:4em;
         padding-left:35px;
     }
-    
+
     #productsmain p {
         font-size:1.3em;
         margin-left:65px;
         width:320px;
     }
-    
+
     #sitemasthead .shop {
         padding-top:0px;
     }
-    
+
     #steamer .header {
         background-image:url(images/tablet-steamers-main.png);
         height:335px;
         margin-bottom:45px;
     }
-    
+
     #steamer h3 {
         font-size:4em;
         padding-top:225px;
         padding-left:45px;
-        
+
     }
-    
+
     #steamer .list a {
         width:220px;
         height:400px;
         margin-left:0px;
         margin-right:15px;
     }
-    
+
     #steamer .list p {
         font-size:1.4em;
         width:200px;
     }
-    
+
     #steamer p {
         font-size:1.6em;
         padding-left:0px;
         margin-left:65px;
         width:400px;
     }
-    
+
     #steamer ul {
         margin:0px;
         padding-left:30px;
     }
- 
+
     #testimonials {
         margin-top:425px;
         width:750px;
         height:415px;
     }
-    
+
     #testimonials h3 {
         padding-top:35px;
     }
-    
+
     #testimonials p {
         font-size:1.5em;
         width:515px;
@@ -864,21 +864,21 @@ ul {
 }
 
 @media screen and (max-width:750px) {
-    
+
     #about {
         background-image:url(images/phone-about.png);
         background-repeat: no-repeat;
         height:1400px;
         margin-top:25px;
     }
-    
+
     #about h3 {
         margin:0px;
         padding:0px;
         padding-top:95px;
         padding-left:25px;
     }
-    
+
     #about .first h4 {
         font-size:2.5em;
         padding:0px;
@@ -886,18 +886,18 @@ ul {
         text-align:center;
         margin-top:25px;
         margin-bottom:10px;
-        
+
     }
-    
+
     #about .first p {
         font-size:1.2em;
         width:240px;
         margin:auto;
         margin-left:55px;
         margin-bottom:15px;
-        
+
     }
-     
+
     #about img {
         width:30%;
         margin:0px;
@@ -905,11 +905,11 @@ ul {
         margin:auto;
         padding-left:115px;
     }
-    
+
     #about .second {
         padding:0px;
     }
-    
+
     #about .second h4 {
         float:none;
         font-size:2.5em;
@@ -918,7 +918,7 @@ ul {
         margin-left:105px;
         margin-bottom:10px;
     }
-    
+
     #about .second p {
         font-size:1.2em;
         width:260px;
@@ -927,11 +927,11 @@ ul {
         margin-bottom:0px;
         padding:0px;
     }
-     
+
     body {
         width:320px;
     }
-    
+
     #content a {
         font-size:1.4em;
         margin-left:0px;
@@ -947,74 +947,74 @@ ul {
         float:left;
         width:320px;
     }
-      
+
     footer li {
         margin:0px;
         padding:10px;
         width:50px;
     }
-    
+
     footer p {
         font-size:1em;
         margin:0px;
         width:100px;
         padding:10px;
     }
-    
+
     h3 {
         font-size:2.2em;
     }
-    
+
     #header a {
         padding:5px;
         margin-left:100px;
     }
-    
+
     #headermain {
         background-image: url(images/phone-mainheader.png);
         height:140px;
         margin-top:25px;
     }
-    
+
     #headermain .boxes {
         display:none;
     }
-    
+
     #headermain .text {
         display:none;
     }
-    
+
     #introduction {
         margin-top:0px;
         width:320px;
         height:425px;
         margin-bottom:0px;
     }
-    
+
     #introduction a {
         font-size:0.8em;
         padding:10px;
     }
-    
-    
+
+
     #introduction h3 {
         padding-top:25px;
         padding-bottom:15px;
     }
-   
+
     #introduction p {
         width:275px;
         margin-bottom:195px
     }
-    
+
     nav a {
         color:white;
     }
-    
+
     nav img {
         display:none;
     }
-    
+
     nav .link {
         clear:both;
         width:320px;
@@ -1024,12 +1024,12 @@ ul {
         background-color:#afd184;
         padding-bottom:8px;
     }
-    
+
     p {
         margin:0px;
         padding:0px;
     }
-    
+
     #photos h3 {
         width:320px;
         margin:auto;
@@ -1037,14 +1037,14 @@ ul {
         margin-top:20px;
         margin-bottom:25px;
     }
-    
+
     #photos ul {
         width:auto;
         padding:0px;
         margin:0px;
         margin-bottom:50px;
     }
-    
+
     #product1 h3 {
         float:left;
         width:250px;
@@ -1052,27 +1052,27 @@ ul {
         margin:0px;
         margin-left:38px;
         text-align:center;
-        margin-top:35px;  
+        margin-top:35px;
     }
-    
+
     #product1 img {
         width:55%;
         height:auto;
         margin-left:15px;
     }
-    
+
     #product1 p {
         float:left;
         width:320px;
         margin:0px;
         padding:0px;
     }
- 
+
     #product1 form {
         padding-top:0px;
         margin-left:125px;
     }
-    
+
     #product1 .ingredients {
         font-size:1.4em;
         width:300px;
@@ -1098,28 +1098,28 @@ ul {
     #product1 .purchase {
         margin-top:28px;
     }
-    
+
     #product1 select {
         margin-top:10px;
         margin-left:30px;
         margin-bottom:20px;
     }
-    
+
     #products h3 {
         margin-top:20px;
     }
-    
+
     #productsmain #header {
         background-image:url("images/phone-steamers-main.png");
         margin-top:25px;
         height:140px;
     }
-    
+
     #productsmain #header h3 {
         font-size:2.5em;
         padding-top:25px;
     }
-    
+
     #productsmain #header p {
         display:block;
         font-size:1em;
@@ -1128,14 +1128,14 @@ ul {
         width:275px;
         margin-left:15px;
     }
-    
+
     #sitemasthead .search {
         margin:0px;
         padding-top:0px;
         float:right;
         margin-bottom:10px;
     }
-    
+
     #sitemasthead .shop {
         float:right;
         margin:0px;
@@ -1143,7 +1143,7 @@ ul {
         padding-right:10px;
         padding-bottom:10px;
     }
-    
+
     #sitemasthead p {
         display:inherit;
         width:115px;
@@ -1152,48 +1152,48 @@ ul {
         float:left;
         margin-left:5px;
     }
-    
+
     #steamer .header {
         background-image: url(images/phone-steamers-main.png);
         background-repeat: no-repeat;
         height:145px;
         margin-top:25px;
     }
-    
+
     #steamer h3 {
         font-size:2.5em;
         margin:0px;
         padding-top:60px;
         padding-left:32px;
     }
-    
+
     #steamer .hide {
         display:none;
     }
-    
+
     #steamer .list {
         margin-left:20px;
     }
-    
+
     #steamer p {
         display:block;
     }
-  
+
     #testimonials {
         width:320px;
         height:545px;
         margin-bottom:0px;
         margin-top:1150px;
     }
-    
+
     #testimonials h3 {
         padding-top:25px;
         padding-bottom:15px;
     }
-   
+
     #testimonials p {
         width:275px;
         margin-bottom:85px;
     }
-    
+
 }
